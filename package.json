@@ -1,0 +1,14 @@
+{
+  "name": "api-using-node-docker",
+  "version": "1.0.0",
+  "description": "An API built with Node.js in a Docker container.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jason Lengstorf <jason@lengstorf.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
